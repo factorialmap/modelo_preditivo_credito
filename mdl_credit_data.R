@@ -26,7 +26,7 @@ resample_cred <-  vfold_cv(train_cred, strata = status)
 
 # exploratory -------------------------------------------------------------------------------------------
 
-
+Marcelo Carvalho dos Anjos
 
 
 
